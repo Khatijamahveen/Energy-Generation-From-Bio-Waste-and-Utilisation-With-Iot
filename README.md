@@ -10,9 +10,7 @@
 
 **I, Khatija Mahveen, was a contributing team member on this project.** The core design, primary development, and implementation were led by my colleague.
 
-### My Contribution
-
-My contribution involved:
+### My Contribution involved:
 
 * Collaborating on the technical documentation and report preparation
 * Assisting with basic hardware testing and verification of sensor readings using the **INA219 and LCD**
